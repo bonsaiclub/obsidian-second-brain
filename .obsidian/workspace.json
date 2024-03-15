@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "5b53f579290f24ad",
+            "id": "015d535a8821821a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🏠 Homepage.md",
+                "file": "🚀 Projects/🚀 Projects.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🏠 Homepage.md",
+                "file": "🚀 Projects/🚀 Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🏠 Homepage.md",
+                "file": "🚀 Projects/🚀 Projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🏠 Homepage.md"
+                "file": "🚀 Projects/🚀 Projects.md"
               }
             }
           },
@@ -197,17 +197,23 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "5b53f579290f24ad",
+  "active": "015d535a8821821a",
   "lastOpenFiles": [
+    "🏠 Homepage.md",
     "🚀 Projects/🚀 Projects.md",
+    "🚀 Projects/Project 1/Project 1.md",
     "🧰 Areas/🧰 Areas.md",
+    "🚀 Projects/Project 1/Note 2.md",
+    "🚀 Projects/Project 1/Note 1.md",
+    "🚀 Projects/Project 1",
+    "🚀 Projects/Test Projekt 2.md",
     "🗃️ Archives/🗃️ Archives.md",
     "💡 Resources/💡 Resources.md",
     "🖼️ Images/Bildschirmfoto 2023-04-08 um 15.17.24.png",
-    "🏠 Homepage.md",
     "README.md",
     "🧰 Areas/Swarm Learning.md",
     "🧰 Areas/Project Management/Project Management.md",
@@ -227,9 +233,6 @@
     "🚀 Projects/Work/Alcon/AutoCosDL Phase 7.1/Infrastruktur.md",
     "💡 Ressources/Tech/Software Engineering/Tools/DVC.md",
     "🗃️ Archives/Work/Projects/Alcon/AutoCosDL Phase 5/Datasets.md",
-    "🗃️ Archives/Work/Projects/Alcon/AutoCosDL Phase 5/Meetings/Schritte für die letze Woche 11.04.23.md",
-    "🗃️ Archives/Work/Projects/Alcon/AutoCosDL Phase 5/Meetings/Präsentationsnotizen.md",
-    "🗃️ Archives/Work/Projects/Alcon/AutoCosDL Phase 5/Meetings/Planung Ergebnisse interpretieren 04.04.23.md",
     "🚀 Projects/Work/Alcon/AutoCosDL Phase 7.1",
     "💡 Ressources/Tech/IoT",
     "🖼️ Images/Pasted image 20240206164405.png",
@@ -245,7 +248,6 @@
     "🖼️ Images/Pasted image 20240129163839.png",
     "🖼️ Images/Pasted image 20240129162508.png",
     "🖼️ Images/Pasted image 20240129162445.png",
-    "🚀 Projects/Work/codecentric/Personal Entwicklung/AI-102/Get started with Azure AI Services/2. Create and consume Azure AI services",
-    "🚀 Projects/Work/codecentric/Personal Entwicklung/AI-102/Get started with Azure AI Services/1. Prepare to develop AI solutions on Azure"
+    "🚀 Projects/Work/codecentric/Personal Entwicklung/AI-102/Get started with Azure AI Services/2. Create and consume Azure AI services"
   ]
 }
