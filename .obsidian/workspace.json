@@ -20,21 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "015d535a8821821a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🚀 Projects/🚀 Projects.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🚀 Projects/🚀 Projects.md",
+                "file": "🏠 Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🚀 Projects/🚀 Projects.md",
+                "file": "🏠 Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🚀 Projects/🚀 Projects.md"
+                "file": "🏠 Homepage.md"
               }
             }
           },
@@ -201,11 +188,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "015d535a8821821a",
+  "active": "aade88ad572b9b19",
   "lastOpenFiles": [
+    "🎨 Templates/Ressource.md",
+    "🎨 Templates/Project.md",
     "🏠 Homepage.md",
-    "🚀 Projects/🚀 Projects.md",
     "🚀 Projects/Project 1/Project 1.md",
+    "🚀 Projects/🚀 Projects.md",
     "🧰 Areas/🧰 Areas.md",
     "🚀 Projects/Project 1/Note 2.md",
     "🚀 Projects/Project 1/Note 1.md",
@@ -231,8 +220,6 @@
     "🎨 Templates/alcon-wochenstart.md",
     "🎨 Templates/niceml-jour-fixe.md",
     "🚀 Projects/Work/Alcon/AutoCosDL Phase 7.1/Infrastruktur.md",
-    "💡 Ressources/Tech/Software Engineering/Tools/DVC.md",
-    "🗃️ Archives/Work/Projects/Alcon/AutoCosDL Phase 5/Datasets.md",
     "🚀 Projects/Work/Alcon/AutoCosDL Phase 7.1",
     "💡 Ressources/Tech/IoT",
     "🖼️ Images/Pasted image 20240206164405.png",
