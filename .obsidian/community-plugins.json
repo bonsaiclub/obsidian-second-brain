@@ -1,7 +1,6 @@
 [
   "obsidian-admonition",
   "table-editor-obsidian",
-  "obsidian-banners",
   "convert-url-to-iframe",
   "editing-toolbar",
   "folder-note-plugin",
@@ -10,5 +9,8 @@
   "url-into-selection",
   "reveal-active-file-button",
   "templater-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian42-brat",
+  "obsidian-banners",
+  "dataview"
 ]
