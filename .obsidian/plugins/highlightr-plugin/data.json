@@ -1,0 +1,40 @@
+{
+  "highlighterStyle": "lowlight",
+  "highlighterMethods": "inline-styles",
+  "highlighters": {
+    "Pink": "#FFB8EBA6",
+    "Red": "#FF5582A6",
+    "Orange": "#FFB86CA6",
+    "Yellow": "#FFF3A3A6",
+    "Green": "#BBFABBA6",
+    "Cyan": "#ABF7F7A6",
+    "Blue": "#ADCCFFA6",
+    "Purple": "#D2B3FFA6",
+    "Grey": "#CACFD9A6",
+    "cc-Green": "#22F4AE",
+    "cc-Blue": "#00C9EC",
+    "cc-Mint": "#47D9CB",
+    "cc-Yellow": "#F7EA2D",
+    "cc-Red": "#FF5A5F",
+    "cc-Iris": "#007286",
+    "cc-Black": "#000000"
+  },
+  "highlighterOrder": [
+    "Pink",
+    "Red",
+    "Orange",
+    "Yellow",
+    "Green",
+    "Cyan",
+    "Blue",
+    "Purple",
+    "Grey",
+    "cc-Green",
+    "cc-Blue",
+    "cc-Mint",
+    "cc-Yellow",
+    "cc-Red",
+    "cc-Iris",
+    "cc-Black"
+  ]
+}

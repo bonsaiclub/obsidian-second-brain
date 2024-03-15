@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "d6ef91340878e8c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "5827f06f73b82043",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aade88ad572b9b19",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🏠 Homepage.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "5b53f579290f24ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🏠 Homepage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a7c124927e7091fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa80bc56e352db8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa09708e42aba2da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e0f94f0f8ed6eb4a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "47e945ea22420c47",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "ead27f3ab71df293",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ff6261917bf90b6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a52dcd7cf776785",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9630c5e6a9c8ea76",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "🏠 Homepage.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e59cc63c6e95bc0d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "🏠 Homepage.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1f83ff468e7b28d0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5be2d0f4cdd1453a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "🏠 Homepage.md"
+              }
+            }
+          },
+          {
+            "id": "b25e7f8fe975d0ff",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "3d55f3f51d0c470b",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          },
+          {
+            "id": "61da19be3b0e4b29",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "5b53f579290f24ad",
+  "lastOpenFiles": [
+    "🚀 Projects/🚀 Projects.md",
+    "🧰 Areas/🧰 Areas.md",
+    "🗃️ Archives/🗃️ Archives.md",
+    "💡 Resources/💡 Resources.md",
+    "🖼️ Images/Bildschirmfoto 2023-04-08 um 15.17.24.png",
+    "🏠 Homepage.md",
+    "README.md",
+    "🧰 Areas/Swarm Learning.md",
+    "🧰 Areas/Project Management/Project Management.md",
+    "🧰 Areas/Deep Learning/Deep Learning.md",
+    "🗃️ Archives/Work/Projects/Projects.md",
+    "🗃️ Archives/Work/Projects",
+    "🗃️ Archives/Work",
+    "🗃️ Archives/Work/Project Learnings/Alcon - Predictive Mold Cleaning.md",
+    "🎨 Templates/project-retro.md",
+    "📓 Notes/Austausch Forschungantrag.md",
+    "💡 Ressources/Tech/Tech.md",
+    "💡 Ressources/codecentric/codecentric.md",
+    "🎨 Templates/alcon-pred-mold-clean-weekly.md",
+    "🎨 Templates/templater/ABC.md",
+    "🎨 Templates/alcon-wochenstart.md",
+    "🎨 Templates/niceml-jour-fixe.md",
+    "🚀 Projects/Work/Alcon/AutoCosDL Phase 7.1/Infrastruktur.md",
+    "💡 Ressources/Tech/Software Engineering/Tools/DVC.md",
+    "🗃️ Archives/Work/Projects/Alcon/AutoCosDL Phase 5/Datasets.md",
+    "🗃️ Archives/Work/Projects/Alcon/AutoCosDL Phase 5/Meetings/Schritte für die letze Woche 11.04.23.md",
+    "🗃️ Archives/Work/Projects/Alcon/AutoCosDL Phase 5/Meetings/Präsentationsnotizen.md",
+    "🗃️ Archives/Work/Projects/Alcon/AutoCosDL Phase 5/Meetings/Planung Ergebnisse interpretieren 04.04.23.md",
+    "🚀 Projects/Work/Alcon/AutoCosDL Phase 7.1",
+    "💡 Ressources/Tech/IoT",
+    "🖼️ Images/Pasted image 20240206164405.png",
+    "🚀 Projects/Work/codecentric/Bewerbungsgespäche",
+    "🖼️ Images/Pasted image 20240206180816.png",
+    "🖼️ Images/Pasted image 20240206180745.png",
+    "🚀 Projects/Work/codecentric/Personal Entwicklung/AI-102/Get started with Azure AI Services/3. Monitor AI Services/3.3 View metrics",
+    "🖼️ Images/Pasted image 20240206174744.png",
+    "🚀 Projects/Work/codecentric/Personal Entwicklung/AI-102/Get started with Azure AI Services/3. Monitor AI Services",
+    "🖼️ Images/Pasted image 20240118173104.png",
+    "🚀 Projects/Work/codecentric/Mitarbeitergespräch 2024",
+    "🖼️ Images/Pasted image 20240129163841.png",
+    "🖼️ Images/Pasted image 20240129163839.png",
+    "🖼️ Images/Pasted image 20240129162508.png",
+    "🖼️ Images/Pasted image 20240129162445.png",
+    "🚀 Projects/Work/codecentric/Personal Entwicklung/AI-102/Get started with Azure AI Services/2. Create and consume Azure AI services",
+    "🚀 Projects/Work/codecentric/Personal Entwicklung/AI-102/Get started with Azure AI Services/1. Prepare to develop AI solutions on Azure"
+  ]
+}
